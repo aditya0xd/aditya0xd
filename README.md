@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya0xd
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me adityakryadav10@gmail.com
 
