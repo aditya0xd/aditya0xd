@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Aditya Yadav  
-🚀 Software Development Instructor at NxtWave | Frontend Developer | Tech Enthusiast  
+🚀 Software Development Trainee at NxtWave | Frontend Developer | Tech Enthusiast  
 
 💻 Passionate about building scalable web applications using React, TypeScript & Node.js.  
 🎯 Currently focusing on mastering Full Stack Development and contributing to open-source.  
 cript and react.js
-
 
 
 ## 🧩 About Me
@@ -14,7 +13,7 @@ cript and react.js
 - 🧰 Building personal projects like **QuickCart (mini e-commerce app)**
 - 💬 Ask me about **Frontend, React, APIs, or Tech Career Guidance**
 
-- 
+  
 - 💞️ looking to collaborate.
 - 📫 How to reach me? :) adityayadav168@gmail.com
 
