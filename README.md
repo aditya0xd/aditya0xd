@@ -7,7 +7,6 @@ cript and react.js
 
 
 ## 🧩 About Me
-- 🌱 Currently learning **Backend Development with Node.js**
 - 🧠 Strong foundation in **JavaScript, React, and OOP**
 - 👨‍🏫 Teaching and mentoring students in **Full Stack Development**
 - 🧰 Building personal projects like **QuickCart (mini e-commerce app)**
