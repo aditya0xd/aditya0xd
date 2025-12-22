@@ -1,19 +1,26 @@
 # 👋 Hi, I'm Aditya Yadav  
-🚀 Software Development Trainee at NxtWave | Frontend Developer | Tech Enthusiast  
+🚀 Software Development Trainee at NxtWave | Frontend Developer (React + TypeScript)
 
-💻 Passionate about building scalable web applications using React, TypeScript & Node.js.  
-🎯 Currently focusing on mastering Full Stack Development and contributing to open-source.  
-cript and react.js
+💻 I build production-ready, scalable web applications using React, TypeScript, and modern frontend tooling.
+
+🎯 Currently focused on Full-Stack Development and building real-world products while contributing to open-source projects.
 
 
-## 🧩 About Me
-- 🧠 Strong foundation in **JavaScript, React, and OOP**
-- 👨‍🏫 Teaching and mentoring students in **Full Stack Development**
-- 🧰 Building personal projects like **QuickCart (mini e-commerce app)**
-- 💬 Ask me about **Frontend, React, APIs, or Tech Career Guidance**
+🧠 What I Do
 
-  
-- 💞️ looking to collaborate.
+Strong hands-on experience with JavaScript, React, TypeScript, and OOP principles
+
+Design and build clean, performant UIs with real-world patterns (debounce, infinite scroll, API state handling)
+
+Build and ship personal products like GameHub, ShopZen(mini e-commerce platform)
+
+🤝 Open To
+
+Frontend / Full-Stack collaboration
+
+Freelance or contract opportunities
+
+Open-source contributions
 - 📫 How to reach me? :) adityayadav168@gmail.com
 
 <!---
