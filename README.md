@@ -16,9 +16,7 @@
   - infinite scrolling  
   - API state handling  
 - Build and ship personal products such as:
-  - **GameHub**
-  - **ShopZen** (mini e-commerce platform)
-
+  - **ShopZen**
 ---
 
 ## 🤝 Open To
