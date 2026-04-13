@@ -30,5 +30,6 @@ I build full-stack web applications end-to-end — from REST APIs and databases 
 
 ## 📫 How to Reach Me
 
-📧 **adityayadav168@gmail.com**
-**https://www.linkedin.com/in/aditya101201/**
+- 📧 **adityayadav168@gmail.com**
+- **https://www.linkedin.com/in/aditya101201/**
+
