@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aditya Yadav
 
-🚀 **Software Development Trainee at NxtWave** | Frontend Developer (React + TypeScript)
+🚀 **Software Development Trainee at NxtWave** | Software Developer 
 
 💻 I build production-ready, scalable web applications using **React, TypeScript, Node.js, Express.js** and modern fullstack tooling.
 
@@ -10,13 +10,14 @@
 
 ## 🧠 What I Do
 
-- Strong hands-on experience with **JavaScript, React, TypeScript**, and **OOP principles**
-- Design and build clean, performant UIs using real-world patterns:
-  - debounced inputs  
-  - infinite scrolling  
-  - API state handling  
+I build full-stack web applications end-to-end — from REST APIs and databases to polished, performant React UIs.
+
+**Frontend:** React · TypeScript · debounced inputs · infinite scroll · optimistic UI
+
+**Backend:** Node.js · Express · PostgreSQL · Prisma · REST APIs
 - Build and ship personal products such as:
-  - **ShopZen**
+  - **Gym_Track** — full-stack with Next.js, PostgreSQL + Prisma
+  - **ShopZen** — full-stack e-commerce app with React frontend, Node/Express backend, PostgreSQL + Prisma, debounced search, and infinite scrolling
 ---
 
 ## 🤝 Open To
