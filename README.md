@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Node.js+%2B+TypeScript+%2B+PostgreSQL;Caching+%7C+Queues+%7C+Multi-tenancy;Currently+diving+into+Distributed+Systems" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@
 ```yaml
 name: Aditya Yadav
 role: Backend & Full-Stack Developer
-experience: 1+ years shipping production systems
+experience: 2+ years shipping production systems
 focus:
   - Scalability & caching strategies
   - Asynchronous processing & job queues
@@ -162,18 +162,13 @@ Client
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya0xd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0xd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0xd&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya0xd&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=100%" />
 
