@@ -33,7 +33,7 @@ currently_exploring:
   - Database Internals
   - Event-driven architectures
   - Production-grade AI / RAG applications
-fun_fact: "I'd rather build one real, production-shaped project coz I hate easy things"
+fun_fact: "I'd rather build one real, production-shaped project than a toy"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&width=100%" />
